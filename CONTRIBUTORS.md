@@ -3,6 +3,12 @@ Place: USA<br/>
 Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
 Email: kannagikazuko@gmail.com<br/>
 
+
+Name: [Bilal Shehata](https://github.com/bshehata)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Software Engineer, Haskell, Java, C, Node, React, Python, Docker </br>
+Email: bilalshehata@gmail.com</br>
+
 Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
