@@ -18,6 +18,11 @@ Place: Salt Lake City, Utah, USA</br>
 Coding Experience: Java, Python, Swift, Javascript, HTML, CSS. Worked on iOS Development, Flask, Angular 5+ and ReactJS. </br>
 Email: mabigail1123@gmail.com</br>
 
+Name: [Bilal Shehata](https://github.com/bshehata)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Software Engineer, Haskell, Java, C, Node, React, Python, Docker </br>
+Email: bilalshehata@gmail.com</br>
+
 Name: [Adeojo Emmanuel](https://github.com/adeojoemmanuel)</br>
 Place: kwarastate , Nigeria</br>
 Coding Experience: Java, Python, php, Javascript, HTML, CSS. Flask, Angular 2+. </br>
